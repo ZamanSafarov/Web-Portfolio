@@ -1,0 +1,15 @@
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\bin\Debug\net5.0\Cv.Domain.deps.json
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\bin\Debug\net5.0\Cv.Domain.runtimeconfig.json
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\bin\Debug\net5.0\Cv.Domain.runtimeconfig.dev.json
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\bin\Debug\net5.0\Cv.Domain.dll
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\bin\Debug\net5.0\Cv.Domain.pdb
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.csproj.AssemblyReference.cache
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.AssemblyInfoInputs.cache
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.AssemblyInfo.cs
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.csproj.CoreCompileInputs.cache
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.dll
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\refint\Cv.Domain.dll
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.pdb
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\Cv.Domain.genruntimeconfig.cache
+D:\Coding\ASP-NetCore\Web-CV\Cv.Domain\obj\Debug\net5.0\ref\Cv.Domain.dll
